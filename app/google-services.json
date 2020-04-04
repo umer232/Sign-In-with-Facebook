@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452672651050",
+    "firebase_url": "https://signinfacebook-6809c.firebaseio.com",
+    "project_id": "signinfacebook-6809c",
+    "storage_bucket": "signinfacebook-6809c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452672651050:android:ee06fa3f170facc1492853",
+        "android_client_info": {
+          "package_name": "com.example.signinfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452672651050-s7m515jtk0ne0ehqtoqj5nsm1emmen3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signinfacebook",
+            "certificate_hash": "54416ed87b13625e190588a0f8871b131489a643"
+          }
+        },
+        {
+          "client_id": "452672651050-3856q54q5qhi94gbrnto5t69pkukis4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdCyq7cIVMBeAA2FIqHi9setl-E8BRXv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452672651050-3856q54q5qhi94gbrnto5t69pkukis4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
